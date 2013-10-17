@@ -30,7 +30,7 @@ module VideoInfo
       end
 
       def embed_url
-        "http://player.vimeo.com/video/#{video_id}"
+        "https://player.vimeo.com/video/#{video_id}"
       end
 
       def date
